@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\RT3\.android\build-cache\6eefdb741febea86c2e0bd1deeb12ee4b5b6c170\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\RT3\.android\build-cache\eace1cf23a7f73d12d0b520e2f8a21e7369e990f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\RT3\.android\build-cache\aaf076f290151e556cb963ed9d926e687eec54d4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\RT3\.android\build-cache\e14febfe5c288cb7db06fd32b0cc0a1d240b8693\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\RT3\.android\build-cache\5db7b2fbb859e4f1507463bc263bc4bee52e7ea3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\RT3\.android\build-cache\83dcf0a8769b8a36b8899cb2a719f9379fbe5dad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\RT3\.android\build-cache\8aa6501328dc8cd0a31f8d45adadc9aad3769286\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\RT3\.android\build-cache\35730a7f2c583c3dbdf16e6610cadc9318b2faf6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\RT3\.android\build-cache\edfce27b7b4df6deb4d21feb7bddd191a1c04049\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:13:9-50
+	android:allowBackup
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:15:9-53
+activity#com.example.photoswalldemo.MainActivity
+ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:16:5-24:20
+	android:label
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:17:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\RT3\.android\build-cache\6eefdb741febea86c2e0bd1deeb12ee4b5b6c170\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\RT3\.android\build-cache\eace1cf23a7f73d12d0b520e2f8a21e7369e990f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\RT3\.android\build-cache\aaf076f290151e556cb963ed9d926e687eec54d4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\RT3\.android\build-cache\e14febfe5c288cb7db06fd32b0cc0a1d240b8693\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\RT3\.android\build-cache\5db7b2fbb859e4f1507463bc263bc4bee52e7ea3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\RT3\.android\build-cache\83dcf0a8769b8a36b8899cb2a719f9379fbe5dad\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\RT3\.android\build-cache\8aa6501328dc8cd0a31f8d45adadc9aad3769286\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\RT3\.android\build-cache\35730a7f2c583c3dbdf16e6610cadc9318b2faf6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\RT3\.android\build-cache\edfce27b7b4df6deb4d21feb7bddd191a1c04049\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\RT3\.android\build-cache\6eefdb741febea86c2e0bd1deeb12ee4b5b6c170\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\wangzefeng\AndroidStudioProjects\ASTest\photosWallDemo\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\RT3\.android\build-cache\6eefdb741febea86c2e0bd1deeb12ee4b5b6c170\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\RT3\.android\build-cache\eace1cf23a7f73d12d0b520e2f8a21e7369e990f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\RT3\.android\build-cache\aaf076f290151e556cb963ed9d926e687eec54d4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\RT3\.android\build-cache\e14febfe5c288cb7db06fd32b0cc0a1d240b8693\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\RT3\.android\build-cache\5db7b2fbb859e4f1507463bc263bc4bee52e7ea3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\RT3\.android\build-cache\83dcf0a8769b8a36b8899cb2a719f9379fbe5dad\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\RT3\.android\build-cache\8aa6501328dc8cd0a31f8d45adadc9aad3769286\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\RT3\.android\build-cache\35730a7f2c583c3dbdf16e6610cadc9318b2faf6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\RT3\.android\build-cache\edfce27b7b4df6deb4d21feb7bddd191a1c04049\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\RT3\.android\build-cache\6eefdb741febea86c2e0bd1deeb12ee4b5b6c170\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\RT3\.android\build-cache\6eefdb741febea86c2e0bd1deeb12ee4b5b6c170\output\AndroidManifest.xml:26:9-47

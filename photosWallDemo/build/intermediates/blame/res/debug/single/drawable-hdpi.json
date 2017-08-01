@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\wangzefeng\\AndroidStudioProjects\\ASTest\\photosWallDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\wangzefeng\\AndroidStudioProjects\\ASTest\\photosWallDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\wangzefeng\\AndroidStudioProjects\\ASTest\\photosWallDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\empty_photo.png",
+        "source": "D:\\wangzefeng\\AndroidStudioProjects\\ASTest\\photosWallDemo\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    }
+]
